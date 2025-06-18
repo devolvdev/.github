@@ -27,4 +27,3 @@ We believe DevOps tools should be:
 🧱 **We’re building live.**  
 Follow our journey → [@Devolv__](https://x.com/Devolv__)  
 Star + Watch the tools → [github.com/devolvdev](https://github.com/devolvdev)
-"""
