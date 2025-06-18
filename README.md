@@ -1,5 +1,3 @@
-# Create the GitHub README content for the Devolv org profile
-readme_content = """
 # 👋 Hey, we're Devolv
 
 We’re building a collection of **open-source DevOps tools** — in public.
