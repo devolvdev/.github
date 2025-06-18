@@ -28,11 +28,3 @@ We believe DevOps tools should be:
 Follow our journey → [@Devolv__](https://x.com/Devolv__)  
 Star + Watch the tools → [github.com/devolvdev](https://github.com/devolvdev)
 """
-
-readme_path = "/mnt/data/README.md"
-
-# Write the file
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
